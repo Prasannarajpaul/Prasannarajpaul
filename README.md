@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on IOT projects that can help rural people<br>🤝 I’m looking for help with developing creative web pages<br>🌱 I’m currently learning Backend {APIS, MONGO, ReactJS}<br>💬 Ask me about Web Development<br>⚡ Fun fact-I am too lazy to postpone
+🔭 I’m currently working on ReactJS and NodeJS<br>👯 I’m looking to collaborate on IOT projects that can help rural people<br>🤝 I’m looking for help with developing creative MERN applications<br>🌱 I’m currently learning Backend {APIS, MONGO, ReactJS}<br>💬 Ask me about MERN Stack<br>⚡ Fun fact-I am too lazy to postpone
 
 
 ## 🌐 Socials:
