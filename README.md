@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring Boot<br>👯 I’m looking to collaborate on IOT projects that can help rural people<br>🤝 I’m looking for help with developing creative MERN applications<br>🌱 I’m currently learning Backend {Spring Boot, ReactJS}<br>💬 Ask me about Backend<br>⚡ Fun fact-I am too lazy to postpone
+🔭 I’m currently working on Spring Framework and Spring Boot<br>👯 I’m looking to collaborate on IOT projects that can help rural people<br>🤝 I’m looking for help with developing creative MERN applications<br>🌱 I’m currently learning Backend {Spring Boot, ReactJS}<br>💬 Ask me about Backend<br>⚡ Fun fact-I am too lazy to postpone
 
 [![An image of @prasannarajpaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasannarajpaul)](https://holopin.io/@prasannarajpaul)
 
