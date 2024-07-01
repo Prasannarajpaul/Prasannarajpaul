@@ -21,7 +21,21 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-<img src="https://programming-quotes-api.herokuapp.com/quotes/random" width="512px"/>
+
+### Random Content
+
+![Random Meme](https://random-memer.herokuapp.com/)
+
+![Random Imgflip Meme](https://api.imgflip.com/get_memes)
+
+![Random Programming Quote](https://programming-quotes-api.herokuapp.com/quotes/random)
+
+![Random Joke](https://official-joke-api.appspot.com/random_joke)
+
+![Random Chuck Norris Joke](https://api.chucknorris.io/jokes/random)
+
+![Random Cat](https://aws.random.cat/meow)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prasannarajpaul&icon=8&color=6)](https://visitcount.itsvg.in)
