@@ -21,6 +21,7 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://programming-quotes-api.herokuapp.com/quotes/random" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prasannarajpaul&icon=8&color=6)](https://visitcount.itsvg.in)
