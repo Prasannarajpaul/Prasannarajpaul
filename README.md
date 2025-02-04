@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science and Machine Learning along with Data Analysis<br>👯 I’m looking to collaborate on IOT projects that can help rural people<br>🤝 I’m looking for help with developing creative WEB applications<br>🌱 I’m currently learning DSA {CPP+C}, ML<br>💬 Ask me about Backend, AI, and ML<br>⚡ Fun fact-I am too lazy to postpone
+🔭 I’m currently working on Data Science and Machine Learning along with Data Analysis<br>👯 I’m looking to collaborate on IOT projects that can help rural people<br>🤝 I’m looking for help with developing creative WEB applications<br>🌱 I’m currently learning DSA {C+CPP}, Data Science<br>💬 Ask me about Backend(Java),Data Science, AI, and ML<br>⚡ Fun fact-I am too lazy to postpone
 
 [![An image of @prasannarajpaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasannarajpaul)](https://holopin.io/@prasannarajpaul)
 
